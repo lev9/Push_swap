@@ -10,7 +10,7 @@ Goal is to arrange the values in stack a with the help of stack b and a set of a
 
 a simple test:
 
-	./push_swap "2 1 3" 
+	make && ./push_swap "2 1 3" 
 
 
 create a set of random numbers from min to max (negatives :
