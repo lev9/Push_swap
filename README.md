@@ -42,6 +42,7 @@ go to tester
 	./push_swap_test.sh [amount of test rounds] norm  to check norm
 	./push_swap_test.sh [amount of test rounds] time norm  to check speed and norm
 
+*) the moves:
 
 sa : swap a - swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements).
 
