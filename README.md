@@ -66,4 +66,4 @@ rrb : reverse rotate b - shift down all elements of stack b by 1. The last eleme
 
 rrr : rra and rrb at the same time
 
-<img align="left" width="310" height="270" SRC="pics/pw_pic_1.png">
+<img align="left" width="280" height="100" SRC="pics/pw_pic_1.png">
