@@ -4,7 +4,7 @@ A Hive Helsinki school algorithm project Push_swap:
 
 A set of int values, 2 stacks and a set of
 instructions to manipulate both stacks.
-Goal is to arrange the values in stack a with the help of stack b and a set of allowed moves(*:
+Goal is to arrange the values in stack a with the help of stack b and a set of allowed moves (*:
 
 
 
