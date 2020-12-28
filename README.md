@@ -13,7 +13,7 @@ Goal is to arrange the values in stack a with the help of stack b and a set of a
 		make && ./push_swap "2 1 3" 
 
 
-- create a set of random numbers from min to max (negatives :
+- create a set of random numbers from min to max (negatives allowed, doubles not):
 
 		ARG=$(printf '%s ' `seq [min] [max] | sort -R`);
 
