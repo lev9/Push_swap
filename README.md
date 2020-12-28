@@ -38,7 +38,7 @@ Goal is to arrange the values in stack a with the help of stack b and a set of a
 		go to ./tester
 
 		./push_swap_test.sh [amount of test rounds]
-		./push_swap_test.sh [amount of test rounds] time  to check speed
+		./push_swap_test.sh [amount of test rounds] time  (to check speed)
 
 *) the moves:
 
